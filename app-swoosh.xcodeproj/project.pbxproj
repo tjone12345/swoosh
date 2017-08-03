@@ -91,7 +91,6 @@
 			children = (
 				32B6214E1F31DE8400A81CF5 /* app-swoosh */,
 				32B621661F31DE8400A81CF5 /* app-swooshTests */,
-				32B621711F31DE8400A81CF5 /* app-swooshUITests */,
 				32B6214D1F31DE8400A81CF5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -116,6 +115,7 @@
 				32B621591F31DE8400A81CF5 /* Assets.xcassets */,
 				32B6215B1F31DE8400A81CF5 /* LaunchScreen.storyboard */,
 				32B6215E1F31DE8400A81CF5 /* Info.plist */,
+				32B621711F31DE8400A81CF5 /* app-swooshUITests */,
 				32B621561F31DE8400A81CF5 /* app_swoosh.xcdatamodeld */,
 			);
 			path = "app-swoosh";
